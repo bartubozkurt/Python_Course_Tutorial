@@ -6,3 +6,6 @@ def full_emails(people):
 
 print(full_emails(["bartubozkurt35@gmail.com", "Bartu Bozkurt",
       ("altaybzkrt@hotmail.com", "Altay Bozkurt")]))
+                  
+
+## ['Bartu Bozkurt <bartubozkurt35@gmail.com>','Altay Bozkurt <altaybzkrt@hotmail.com>']
